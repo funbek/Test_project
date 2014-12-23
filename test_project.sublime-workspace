@@ -1,0 +1,900 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"smooth",
+				"smoothscroll"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"all",
+				"all-width"
+			],
+			[
+				"trans",
+				"transform	transform"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"list-style",
+				"list-style-position"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-sizing	box-sizing"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"tran",
+				"transition	transition"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 17511,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 10275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 1433,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 324.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Bek/AppData/Local/Temp/Rar$EXa0.864/fancyapps-fancyBox-18d1712/demo/index.html",
+		"/C/Users/Bek/Test_Project/js/fancybox.pack.js",
+		"/C/Users/Bek/Test_Project/js/jquery.glide.js",
+		"/C/Users/Bek/AppData/Local/Temp/Rar$EXa0.620/index.html",
+		"/C/Users/Bek/Desktop/Новая папка/index.html",
+		"/C/Users/Bek/Test_Project/styles.css",
+		"/C/Users/Bek/Test_Project/script.js",
+		"/C/Users/Bek/Test_Project/jQuery.js",
+		"/C/Users/Bek/TryRuby/project.rb",
+		"/C/Users/Bek/teamwork/config/routes.rb",
+		"/C/Users/Bek/teamwork/spec/teamwork_spec.rb",
+		"/C/Users/Bek/rubytutorial/spec/spec_helper.rb",
+		"/C/Users/Bek/rubytutorial/spec/tutorial_spec.rb",
+		"/C/Users/Bek/rubytutorial/lib/learnruby/version.rb",
+		"/C/Users/Bek/rubytutorial/lib/learnruby.rb",
+		"/C/Users/Bek/rubytutorial/lib/tutorial.rb",
+		"/C/Program Files/Git/doc/git/html/git-fetch.html",
+		"/C/Program Files/Git/doc/git/html/git-pull.html",
+		"/C/Users/Bek/.ssh/id_rsa.pub",
+		"/C/Users/Bek/rubytutorial/spec/person_spec.rb",
+		"/C/Users/Bek/rubytutorial/spec/person.rb",
+		"/C/Users/Bek/sotbi_site/js/script.js",
+		"/C/Users/Bek/Desktop/index.html",
+		"/C/Users/Bek/Desktop/new.html",
+		"/C/Users/Bek/rubytutorial/Gemfile",
+		"/C/Users/Bek/teamwork/app/assets/stylesheets/normalize.css.scss",
+		"/C/Users/Bek/teamwork/app/assets/stylesheets/support.css.scss",
+		"/C/Users/Bek/teamwork/app/assets/stylesheets/layout.css.scss",
+		"/C/Users/Bek/teamwork/app/assets/stylesheets/application.css.scss",
+		"/C/Users/Bek/teamwork/app/views/pages/index.html.haml",
+		"/C/Users/Bek/teamwork/app/controllers/pages_controller.rb",
+		"/C/Users/Bek/teamwork/app/views/pages/contact.html.haml",
+		"/C/Users/Bek/teamwork/app/views/layouts/application.html.haml",
+		"/C/Users/Bek/teamwork/app/views/pages/tasks.html.haml",
+		"/C/Users/Bek/teamwork/app/views/pages/about.html.haml",
+		"/C/Users/Bek/teamwork/app/views/pages/_form.html.haml",
+		"/C/Users/Bek/teamwork/Guardfile",
+		"/C/Users/Bek/teamwork/app/assets/stylesheets/pages.css.scss",
+		"/C/Users/Bek/teamwork/app/assets/javascripts/pages.js.coffee",
+		"/C/Users/Bek/teamwork/app/assets/stylesheets/application.scss",
+		"/C/Users/Bek/teamwork/Gemfile",
+		"/C/Users/Bek/teamwork/app/assets/javascripts/application.js",
+		"/C/Users/Bek/teamwork/app/assets/stylesheets/application.css",
+		"/C/Ruby21/lib/ruby/site_ruby/2.1.0/rbreadline.rb",
+		"/C/Ruby21/lib/ruby/site_ruby/2.1.0/readline.rb",
+		"/C/Ruby21/lib/ruby/site_ruby/2.1.0/rb-readline.rb",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/mailer.php",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/Users/Bek/Cloud@Mail.Ru/HEADBEAT/index.html",
+		"/C/Users/Bek/YandexDisk/Язык программирования Ruby/RPLExamples/8-12.rb",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/index 3.html",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/index 4.html",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/main 2.css",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/script.js",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/jquery.sticky.js",
+		"/C/Users/Bek/Desktop/for kiril/script.js",
+		"/C/Users/Bek/Desktop/for kiril/index.css",
+		"/C/Users/Bek/Desktop/for kiril/new.html",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/eitherScript.js",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/personal.css",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/layout.css",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/general.css",
+		"/C/Users/Bek/Desktop/for kiril/jquery.js",
+		"/C/Users/Bek/Desktop/e-hose5.ru/index.html",
+		"/C/Users/Bek/Desktop/e-hose5.ru/css/main.css",
+		"/C/Users/Bek/Desktop/e-hose5.ru/js/main.js",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/menu.css",
+		"/C/Users/Bek/.ssh/id_rsa",
+		"/C/Users/Bek/.ssh/ssh.txt.pub",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/theme.css",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/front.css",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/iCalcreator.class.php",
+		"/C/Users/Bek/AppData/Local/Temp/fz3temp-1/gcalendar.php",
+		"/C/Users/Bek/Sass/style.scss",
+		"/C/Users/Bek/Sass/styel.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fancybox-manual-a",
+			"bloc",
+			"bloc-form",
+			"bloc",
+			"bloc-form-red",
+			"circle",
+			"footer",
+			"<footer",
+			"footer",
+			".navigation ul li span",
+			"<img src=\"img/house-icon.png\" alt=\"\" />",
+			".fixed-nav",
+			".navigation",
+			".menu-button",
+			".navigation",
+			"<li>",
+			"</a>",
+			"navigation",
+			"nav",
+			".all-width.left-border",
+			"header.head-site",
+			"header.head-site\\",
+			".all-width.left-border",
+			"header.head-site",
+			".navigation ul li",
+			"header.head-site",
+			"<span class=\"icon-nav\"></span>",
+			"3s",
+			"span",
+			"chose-lang",
+			"header.head-site > .right-side",
+			".navigation",
+			"body",
+			"h1",
+			"p",
+			".footer-contacts",
+			".left-border",
+			".wraper-block",
+			"h1",
+			".footer-content",
+			"footer-content",
+			".navigation",
+			".footer-content .left-border",
+			"80",
+			".slider-arrow",
+			"foote",
+			"foote-co",
+			"959595",
+			"50",
+			"stoke",
+			"arrowsWrapperClass",
+			"slider-arrows",
+			"prev",
+			"<h3>",
+			"stoke",
+			"slider",
+			"slide",
+			"red stoke",
+			"slider",
+			"header.head-site",
+			"house",
+			"menu",
+			"header.head-site .number",
+			"header.head-site",
+			"left-side",
+			"class=\"\"",
+			"recomendation",
+			"text-block clearfix-right",
+			"block-image",
+			"block-icon-form",
+			".block-icon-form",
+			"margin-bottom",
+			"margin-botom",
+			"предлагаем",
+			"section h2",
+			"red",
+			"black",
+			"arrow-box",
+			"238",
+			"blo\n",
+			"bloc\\\n",
+			"block-a\n",
+			"block-arrow\n",
+			"как действо",
+			"заказать бр",
+			"акции",
+			"header",
+			"{\n",
+			".left-border",
+			"5px",
+			"255",
+			"aside",
+			".left-border",
+			"text-block",
+			"Поможем в развитии ",
+			";\n",
+			"border-block",
+			"10",
+			"1060",
+			";\n",
+			"span",
+			"p",
+			"imagine/",
+			"content",
+			"conteng",
+			"Ссылка",
+			"<span>",
+			"span",
+			"block-icon-form",
+			"идщсл",
+			"p",
+			"article",
+			"line",
+			"				</",
+			"table.table-style td, table.table-style th",
+			"table.table-style td, table.table-style th\\",
+			"table.table-style td, table.table-style th",
+			"minute",
+			"hour",
+			"template",
+			"person",
+			"ефиду",
+			"мок",
+			"биоимпеда",
+			"консультация",
+			"!",
+			"Ruby",
+			"4490"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 17511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17484,
+								17484
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8096.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"settings":
+					{
+						"buffer_size": 10275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10257,
+								10257
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8970.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/script.js",
+					"settings":
+					{
+						"buffer_size": 1433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								991,
+								991
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 430.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"time",
+				"lib/time.rb"
+			],
+			[
+				"spe",
+				"spec/spec_helper.rb"
+			],
+			[
+				".rb",
+				"spec/person_spec.rb"
+			],
+			[
+				"",
+				"spec/spec_helper.rb"
+			],
+			[
+				"tu",
+				"spec/tutorial_spec.rb"
+			],
+			[
+				"spec_",
+				"spec/spec_helper.rb"
+			],
+			[
+				"rb",
+				"lib/tutorial.rb"
+			],
+			[
+				"tuto",
+				"lib/tutorial.rb"
+			],
+			[
+				"abo",
+				"teamwork/app/views/pages/about.html.haml"
+			],
+			[
+				"page",
+				"teamwork/app/controllers/pages_controller.rb"
+			],
+			[
+				"about",
+				"teamwork/app/views/pages/about.html.haml"
+			],
+			[
+				"app",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				"rou",
+				"teamwork/config/routes.rb"
+			],
+			[
+				"norm",
+				"teamwork/app/assets/stylesheets/normalize.css.scss"
+			],
+			[
+				"supp",
+				"teamwork/app/assets/stylesheets/support.css.scss"
+			],
+			[
+				".css.scss",
+				"teamwork/app/assets/stylesheets/layout.css.scss"
+			],
+			[
+				"page.css.",
+				"teamwork/app/assets/stylesheets/pages.css.scss"
+			],
+			[
+				"application.css",
+				"teamwork/app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"aappi.html",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				"pages",
+				"teamwork/app/controllers/pages_controller.rb"
+			],
+			[
+				"conta",
+				"teamwork/app/views/pages/contact.html.haml"
+			],
+			[
+				"index",
+				"teamwork/app/views/pages/index.html.haml"
+			],
+			[
+				"appli.",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				"task",
+				"teamwork/app/views/pages/tasks.html.haml"
+			],
+			[
+				"applica.html",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				"team",
+				"teamwork/spec/teamwork_spec.rb"
+			],
+			[
+				"routes",
+				"teamwork/config/routes.rb"
+			],
+			[
+				"applica.css",
+				"teamwork/app/assets/stylesheets/application.css"
+			],
+			[
+				"pages.css",
+				"teamwork/app/assets/stylesheets/pages.css.scss"
+			],
+			[
+				".css.",
+				"teamwork/app/assets/stylesheets/pages.css.scss"
+			],
+			[
+				"css.",
+				"teamwork/app/assets/stylesheets/pages.css.scss"
+			],
+			[
+				"html.haml",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				"applicati.h",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				"appli.html.h",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				".html.ha",
+				"teamwork/app/views/layouts/application.html.haml"
+			],
+			[
+				".css",
+				"teamwork/app/assets/stylesheets/pages.css.scss"
+			],
+			[
+				".co",
+				"teamwork/app/assets/javascripts/pages.js.coffee"
+			],
+			[
+				"pages.co",
+				"teamwork/app/assets/javascripts/pages.js.coffee"
+			],
+			[
+				"appl.css",
+				"teamwork/app/assets/stylesheets/application.css"
+			],
+			[
+				"js",
+				"teamwork/app/assets/javascripts/application.js"
+			],
+			[
+				"index.html",
+				"teamwork/app/views/pages/index.html.haml"
+			],
+			[
+				"route",
+				"teamwork/config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Bek/rubytutorial/rubytytorial.sublime-project"
+			],
+			[
+				"blo",
+				"/C/Users/Bek/Try_Rails/blog/blog-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
