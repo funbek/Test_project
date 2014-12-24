@@ -63,4 +63,10 @@ $(document).ready(function(){
              window.location.hash = target;
          });
      });
+
+    // change h2 name form
+    $(".modalbox").click(function(){
+    	var head_form = $(this).children(".arrow-box").text();
+    	$(".head-form").text(head_form);
+    })
 })

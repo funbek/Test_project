@@ -5,7 +5,7 @@
 <title>index</title>
 <meta name="name" content="Bek">
 <link rel="stylesheet" type="text/css" href="css/styles.css" />
-
+<link rel="stylesheet" type="text/css" media="all" href="fancybox/jquery.fancybox.css">
   <!--[if lt IE 9]>
  <script>
   var e = ("article,aside,figcaption,figure,footer,header,hgroup,nav,section,time").split(',');
@@ -91,10 +91,12 @@
 							</div>
 						</div>
 						<footer class="form-btn" class="clearfix">
-							<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
-							<div class="arrow-box bold">
-								Попробовать наше продвижение,<span class="red-text"> увеличить продажи</span>
-							</div>
+							<a class="modalbox" href="#inline">
+								<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
+								<div class="arrow-box bold">
+									Попробовать наше продвижение,<span class="red-text"> увеличить продажи</span>
+								</div>
+							</a>
 						</footer>
 					</section>
 
@@ -123,10 +125,12 @@
 							</div>
 						</div>
 						<footer class="form-btn">
-							<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
-							<div class="arrow-box bold">
-								Оставить заявку на качественный сайт</span>
-							</div>
+							<a class="modalbox" href="#inline">
+								<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
+								<div class="arrow-box bold">
+									Оставить заявку на качественный сайт</span>
+								</div>
+							</a>
 						</footer>
 					</section>
 
@@ -152,10 +156,12 @@
 							</div>
 						</div>
 						<footer class="form-btn">
-							<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
-							<div class="arrow-box bold">
-								Заказать комплексный подход, <span class="red-text">увеличить продажи</span></span>
-							</div>
+							<a class="modalbox" href="#inline">
+								<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
+								<div class="arrow-box bold">
+									Заказать комплексный подход, <span class="red-text">увеличить продажи</span></span>
+								</div>
+							</a>
 						</footer>
 					</section>
 
@@ -178,10 +184,12 @@
 							</div>
 						</div>
 						<footer class="form-btn">
-							<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
-							<div class="arrow-box bold">
-								Заказать локализацию<span class="red-text"> Начать развивать бизнес</span>
-							</div>
+							<a class="modalbox" href="#inline">
+								<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
+								<div class="arrow-box bold">
+									Заказать локализацию<span class="red-text"> Начать развивать бизнес</span>
+								</div>
+							</a>
 						</footer>
 					</section>
 
@@ -233,10 +241,12 @@
 
 				<aside>
 					<footer class="form-btn">
-						<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
-						<div class="arrow-box two-line">
-							<span class="red-text capitalize-text">Как действительно начать продавать в интернете</span>
-						</div>
+						<a class="modalbox" href="#inline">
+							<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
+							<div class="arrow-box two-line">
+								<span class="red-text capitalize-text">Как действительно начать продавать в интернете</span>
+							</div>
+						</a>
 					</footer>
 
 					<section>
@@ -351,10 +361,12 @@
 					
 
 					<footer class="form-btn">
-						<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
-						<div class="arrow-box bold">
-							<span class="red-text capitalize-text">Заказать обратный звонок</span>
-						</div>
+						<a class="modalbox" href="#inline">
+							<div class="block-arrow red"><img src="img/icon-footer.jpg" alt=""></div>
+							<div class="arrow-box bold">
+								<span class="red-text capitalize-text">Заказать обратный звонок</span>
+							</div>
+						</a>
 					</footer>
 
 					<section class="red stoke">
@@ -392,11 +404,13 @@
 							
 						</div>
 					</section>
-						<footer class="black-form form" class="no-margin">
-							<div class="block-arrow light-black"><img src="img/icon-footer-black.jpg" alt=""></div>
-							<div class="arrow-box gray-dark bold">
-								<span class="white-text capitalize-text">Заказать дешевле</span>
-							</div>
+						<footer class="black-form form form-btn" class="no-margin">
+							<a class="modalbox" href="#inline">	
+								<div class="block-arrow light-black"><img src="img/icon-footer-black.jpg" alt=""></div>
+								<div class="arrow-box gray-dark bold">
+									<span class="white-text capitalize-text">Заказать дешевле</span>
+								</div>
+							</a>
 						</footer>
 
 				</aside>
@@ -425,25 +439,59 @@
 
 	</div>
 
+<div id="inline">
+	<h2 class="head-form"></h2>
+
+	<div class="left-line"></div>
+	<form id="contact" name="contact" action="#" method="post">
+		<p>
+			<label class="fix-width" for="text">Ваше имя</label>
+			<input type="text" id="text" name="text" class="txt"  placeholder="Имя">
+		</p>
+
+		<p>
+			<label class="fix-width" for="tel">Ваш телефон</label>
+			<input type="tel" id="tel" name="tel" class="txt" placeholder="+7 (___) ___-____">
+		</p>
+		<p>
+			<label class="fix-width" for="email">Ваш Email</label>
+			<input type="email" id="email" name="email" class="txt" placeholder="example@mail.ru">
+		</p>
+		<button class="btn_send" id="send">Получить бесплатную консультацию</button>
+	</form>
+	<div id="info"></div>
+</div>
 
 <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
-<script type="text/javascript" src="js/script.js"></script>
 <!-- Slider Plugin -->
-<script type="text/javascript" src="js/jquery.glide.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/maskedinput.js"></script>
+<script type="text/javascript">
+	jQuery(function($){
+	   $("#tel").mask("+7 (999) 999-99-99");
+	});
+</script>
+<script type="text/javascript" src="js/glide.js"></script>
 <script type="text/javascript">
 	var glide = $('.slider').glide().data('api_glide');
+	$(window).on('keyup', function (key) {
+		if (key.keyCode === 13) {
+			glide.jump(3, console.log('Wooo!'));
+		};
+	});
 
-		$(window).on('keyup', function (key) {
-			if (key.keyCode === 13) {
-				glide.jump(3, console.log('Wooo!'));
-			};
-		});
+	$('.slider-arrow').on('click', function() {
+		console.log(glide.current());
+	});
 
-		$('.slider-arrow').on('click', function() {
-			console.log(glide.current());
-		});
+</script>
 
-
+<!-- fancybox -->
+<script type="text/javascript" src="fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".modalbox").fancybox();
+	});
 </script>
 </body>
 </html>

@@ -186,6 +186,7 @@ h1{
 
 .arrow-box{
 	background: #eee;
+	color: #333;
 	float: left;
 	display: block;
 	height: 50px;
@@ -533,7 +534,7 @@ aside .reason .left-side{
  | 
 */
 .slider {
-position: relative;
+/*position: relative;*/
 width: 100%;
 height: auto;
 overflow: hidden;
@@ -573,8 +574,8 @@ display: block;
 margin-bottom: -20px;
 padding: 5px;
 }
-.slider-arrow--right { bottom: 87%; right: 15px; color: #fff;}
-.slider-arrow--left { bottom: 87%; right: 45px;  color: #fff;}
+.slider__arrows-item--right { bottom: 81%; right: 21px; color: #fff; cursor:pointer;position: absolute;}
+.slider__arrows-item--left { bottom: 81%; right: 45px;  color: #fff; cursor:pointer;position: absolute;}
 .slider-nav {
 position: absolute;
 bottom: 30px;
@@ -619,9 +620,48 @@ background: #fff;
 #inline{
 	display: none;
 	width: 600px;
-	padding: 40px 0;
+	padding: 30px 0;
 }
 
+/*form styles*/
+label.fix-width{
+	width: 130px;
+	display: inline-block;
+}
+form input{
+	width: 446px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+form p{
+	margin-bottom: 10px;
+}
+.btn_send{
+	border: none;
+	background: #E03345;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+	color: #fff;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+.btn_send:hover{
+	cursor: pointer;
+	background: #A0222F;
+}
+.head-form{
+	text-align: center;
+	font-size: 19px;
+	margin-bottom: 20px;
+}
+
+/*media quaries*/
 @media (max-width: 1060px){
 	.all-width .wraper-block{
 		right: 0;
