@@ -76,10 +76,10 @@
 }
 
 #fancybox-loading, .fancybox-prev span, .fancybox-next span {
-	background-image: url('fancybox_sprite.png');
+	background-image: url('../img/fancybox_sprite.png');
 }
 .fancybox-close{
-	background-image: url('close.png');
+	background-image: url('../img/close.png');
 }
 
 #fancybox-loading {
@@ -178,7 +178,7 @@
 	overflow: hidden;
 	display: none;
 	z-index: 8010;
-	background: url('fancybox_overlay.png');
+	background: url('../img/fancybox_overlay.png');
 }
 
 .fancybox-overlay-fixed {
